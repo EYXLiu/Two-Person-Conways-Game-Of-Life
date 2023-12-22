@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
+#import necessary modules
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
