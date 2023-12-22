@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[77]:
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
